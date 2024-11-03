@@ -1,0 +1,4 @@
+# דוגמאות להתעלמות
+*.log
+node_modules/
+.env
